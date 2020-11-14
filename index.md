@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my projects blog
 
-I'm glad you are here. I plan to talk about ...
+Starting my journey in software development
